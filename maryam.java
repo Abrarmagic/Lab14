@@ -15,7 +15,7 @@ class Lab1 extends Thread{
 }
 
 
-public class maryam implements Runnable  {
+public class maryam implements Runnable abrar  {
 
 public static void main(String[] args) {
 
